@@ -1,6 +1,6 @@
 ---
 
-## 📘 Project Guide: Railway Train Schedule – Hyderabad to Tirupati (Project-3)
+## 📘 (Project-3) Project Guide: Railway Train Schedule – Hyderabad to Tirupati 
 
 ### 🚀 Overview
 
